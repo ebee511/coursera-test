@@ -16,15 +16,15 @@ div > div {
 }
 
 
-#salmon {
+div #salmon {
 	background-color: #E17360;
 }
 
-#red {
+ div #red {
 	background-color: #B72D15;
 }
 
-#yellow {
+div #yellow {
 	background-color: #E6E249;
 }
 
