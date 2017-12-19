@@ -6,9 +6,15 @@ h1 {
 	color: red;
 }
 
-div {
+h3 {
+	float: right;
+}
+
+div > div {
 	background-color: #AA00FF;
 }
+
+
 
 /* Simple Responsive Framework. */
 .row {
