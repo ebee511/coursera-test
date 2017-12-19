@@ -11,12 +11,12 @@ h3 {
 	border: 1px solid black;
 }
 
-div > div {
+/*div > div {
 	background-color: #7A7473;
-}
+}*/
 
 
-div #salmon {
+/*div #salmon {
 	background-color: #E17360;
 }
 
@@ -26,7 +26,7 @@ div #salmon {
 
 div #yellow {
 	background-color: #E6E249;
-}
+}*/
 
 
 /* Simple Responsive Framework. */
