@@ -6,6 +6,10 @@ h1 {
 	color: red;
 }
 
+div {
+	background-color: #AA00FF;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
