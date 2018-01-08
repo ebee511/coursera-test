@@ -1,0 +1,91 @@
+#header-nav {
+	background-color: #F6B319;
+	border-radius: 0;
+	border: 0;
+}
+
+div.navbar-brand {
+	padding: 0;
+	height: 80px;
+	margin: 0;
+}
+
+h1.navbar-brand {
+	margin-left: 15px;
+}
+
+#chicken-category {
+	background-color: #4A8C0E;
+	color: white;
+}
+
+a h1 {
+	color: #000;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #af1717;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+	font-size: 1.2em;
+}
+
+ul#nav-list.nav.navbar-nav.navbar-right {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+button.navbar-toggle.collapsed.visible-xs {
+	margin-top: 20px;
+}
+
+div #collapsable-nav.navbar-collapse.in{
+		background-color: gray;
+		border-top: 1px solid;
+		border-bottom: 1px solid;
+	}
+
+h2 {
+	margin-top: 0px;
+	margin-bottom: 25px;
+}
+
+li {
+	border: 1px solid;
+}
+
+.row {
+	margin-right: 0;
+	margin-left: 0;
+}
+
+button.navbar-toggle.visible-xs {
+	margin-top: 20px;
+}
+
+
+@media (min-width: 768px) {
+
+	div #collapsable-nav.navbar-collapse.in{
+		background-color: #F6B319;
+		border-top: none;
+		border-bottom: none;
+	}
+
+	.navbar>.container .navbar-brand {
+		margin-left: 0;
+	}
+}
+
+@media (max-width: 767px) {
+	div#main-content.container {
+		margin: auto 60px;
+		padding: auto 20px;
+	}
+
+	h1 {
+		margin-left: 40px;
+	}
+}
