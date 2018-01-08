@@ -74,6 +74,10 @@ button.navbar-toggle.visible-xs {
 		border-bottom: none;
 	}
 
+	li {
+		border: none;
+	}
+
 	.navbar>.container .navbar-brand {
 		margin-left: 0;
 	}
